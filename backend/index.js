@@ -3,7 +3,7 @@ import mongoose from 'mongoose';
 import dotenv from 'dotenv';
 import cors from 'cors';
 import { shortCode } from './controllers/controller.js';
-import Urlroutes from './routes/urlRoutes.js';
+import Urlroutes from './routes/Urlroutes.js';
 
 dotenv.config();
 
