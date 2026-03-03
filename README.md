@@ -21,4 +21,3 @@ This project allows users to shorten long URLs into concise links and redirect t
 - **Frontend**: React / Vite
 - **Deployment**: Render / Vercel
 
- https://url-shortener-alpha-liart.vercel.app/
